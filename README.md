@@ -1,6 +1,6 @@
 # 🌴 Miami — Creative Slider Website Design
 
-Cafena brings the aroma of fresh coffee to your mornings through a modern and engaging website. The design emphasizes simplicity and warmth, making every visit feel like a cozy café experience. Crafted with high-quality visuals and smooth performance, it ensures customers stay connected to their favorite drink. A website like this can help strengthen your brand and grow your business faster.
+Miami showcases a unique realization of sliders, turning simple browsing into an interactive visual journey. The sleek transitions and animations reflect modern web creativity at its finest. This project highlights how innovative ideas can be implemented seamlessly in web design. A similar site can elevate your business and attract new audiences effortlessly.
 
 ---
 
